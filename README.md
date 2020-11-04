@@ -4,10 +4,14 @@ This a file that stores essential information, which is required during login. I
 
 # Linux passwd file
 
+$sudo cat /etc/passwd
+
 ![](https://github.com/securityinmind365/Passwd/blob/main/passwd.png)
 
 
 # User enumeration 
+$chmod +x passwdEnum
+$./passwdEnum
 
 The script will enumerate and list all users from a linux machine 
 
