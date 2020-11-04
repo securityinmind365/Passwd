@@ -11,6 +11,7 @@ $sudo cat /etc/passwd
 
 # User enumeration 
 $chmod +x passwdEnum
+
 $./passwdEnum
 
 The script will enumerate and list all users from a linux machine 
