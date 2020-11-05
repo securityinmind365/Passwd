@@ -11,10 +11,14 @@ $sudo cat /etc/passwd
 
 # User enumeration 
 
-Make the file executable $chmod +x passwdEnum
+Make the file executable
 
-Run the bash file $./passwdEnum
+$chmod +x passwdEnum
+
+Run the bash file 
+
+$./passwdEnum
 
 The script will enumerate and list all users from a linux machine 
 
-![](https://github.com/securityinmind365/Passwd/blob/main/script.png)
+
